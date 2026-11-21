@@ -18,7 +18,7 @@
 
 | Tampilan Awal | Setelah Interaksi |
 |:---:|:---:|
-| ![Tampilan Awal](screenshot-awal.png) | ![Setelah Interaksi](screenshot-interaksi.png) |
+| ![Tampilan Awal](Screenshoot/Tampilan Awal.png) | ![Setelah Interaksi](Screenshoot/Hasil Program.png) |
 
 ---
 
