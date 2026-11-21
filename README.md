@@ -96,13 +96,18 @@ javac Main.java
 ```
 
 
+
 ## 📸 Screenshot Aplikasi
 
-### Tampilan Awal
-![Tampilan Awal](./screenshot-awal.png)
+### 1. Tampilan Awal
+![Tampilan Awal](./Screenshoot/Tampilan%20Awal.png)
 
-### Setelah Interaksi (Hasil Perhitungan)
-![Setelah Interaksi](./Screenshoot.Tampilan Awal.png)
+### 2. Hasil Program
+![Hasil Program](./Screenshoot/Hasil%20Program.png)
+
+### 3. Program Ketika Reset
+![Program Ketika Reset](./Screenshoot/Program%20Ketika%20Reset.png)
+
 
 
 . Jalankan program:
