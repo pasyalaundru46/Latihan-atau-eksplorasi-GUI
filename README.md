@@ -15,10 +15,7 @@
 ---
 
 ## 📸 Screenshot Aplikasi
-
-| Tampilan Awal | Setelah Interaksi |
-|:---:|:---:|
-| ![Tampilan Awal](Screenshoot/Tampilan Awal.png) | ![Setelah Interaksi](Screenshoot/Hasil Program.png) |
+(Screenshoot/Tampilan Awal.png) | (Screenshoot/Hasil Program.png) |
 
 ---
 
