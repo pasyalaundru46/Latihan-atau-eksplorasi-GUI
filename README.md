@@ -95,7 +95,17 @@ tombolHitung.addActionListener(new ActionListener() {
 javac Main.java
 ```
 
-5. Jalankan program:
+
+## 📸 Screenshot Aplikasi
+
+### Tampilan Awal
+![Tampilan Awal](./screenshot-awal.png)
+
+### Setelah Interaksi (Hasil Perhitungan)
+![Setelah Interaksi](./Screenshoot.Tampilan Awal.png)
+
+
+. Jalankan program:
 
 ```bash
 java Main
