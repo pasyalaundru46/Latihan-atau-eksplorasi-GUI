@@ -11,12 +11,6 @@
 | NIM | [F1D02510080 |
 | Mata Kuliah | Pemrograman Berorientasi Objek |
 | Tugas | 3B - Latihan/Eksplorasi Materi GUI pada Java |
-
----
-
-## 📸 Screenshot Aplikasi
-(Screenshoot/Tampilan Awal.png) | (Screenshoot/Hasil Program.png) |
-
 ---
 
 ## 🧩 5 Komponen Utama GUI yang Digunakan
