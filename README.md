@@ -82,20 +82,6 @@ tombolHitung.addActionListener(new ActionListener() {
 | Tombol Reset | Menghapus seluruh input dan hasil |
 | Validasi Input | Memeriksa input kosong atau bukan angka |
 | Validasi Angka | Memastikan nilai lebih dari 0 |
-
----
-
-## 📂 Struktur Repository
-
-```text
-Latihan-GUI-Java/
-│
-├── Main.java
-├── README.md
-├── screenshot-awal.png
-└── screenshot-interaksi.png
-```
-
 ---
 
 ## ⚙️ Cara Menjalankan Program
